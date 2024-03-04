@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493efe59-390a-4b96-975d-aee74b2879be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/home_work_14_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_14_2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_14_2/group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_14_2/human.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_14_2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_14_2/student.py" afterDir="false" />
+    <list default="true" id="493efe59-390a-4b96-975d-aee74b2879be" name="Changes" comment="homework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_14_2/human.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_14_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_14_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_14_2/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_14_2/people.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,27 +24,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dEBh7SCQkynUPTucK9OWqirsUO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Example.executor": "Run",
-    "Python.hw_14_2.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.student.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_14_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\PythonProjects\home_work_14_2\hw_14_2" />
@@ -103,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709563473854</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework">
+      <option name="closed" value="true" />
+      <created>1709566643231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709566643231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-from student import Student
+from people import Student
 from group import Group
 
 st1 = Student('Male', 30, 'Steve', 'Jobs', 'AN142')
